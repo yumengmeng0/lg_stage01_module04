@@ -13,7 +13,7 @@ public class ExceptionTest {
         // 编译成功，运行时发生算数异常，下面一句不会执行
 //        System.out.println("5/0 = " + 5 / 0); // java.lang.ArithmeticException: / by zero
 
-        Thread.sleep(1000); // 编译错误
+//        Thread.sleep(1000); // 编译错误
         System.out.println("程序正常结束");
 
     }
