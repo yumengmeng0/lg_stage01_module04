@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75bf1994-045a-4ae8-9649-d31ffd2062f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/AgeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/ExceptionCatchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/ExceptionFinallyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/ExceptionMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/ExceptionPreventTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/ExceptionThrowsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/PersonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p01/SubExceptionMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p01/FileListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p01/FileTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.异常机制和File类.md" beforeDir="false" afterPath="$PROJECT_DIR$/1.异常机制和File类.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/p01/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/p01/ExceptionTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,35 +73,9 @@
       <recent name="E:\lagou\lg_stage01_module04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PersonTest">
-    <configuration name="ExceptionCatchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01.ExceptionCatchTest" />
-      <module name="lg_stage01_module04" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="p01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FileListTest">
     <configuration name="ExceptionFinallyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p01.ExceptionFinallyTest" />
-      <module name="lg_stage01_module04" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="p01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExceptionPreventTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p01.ExceptionPreventTest" />
       <module name="lg_stage01_module04" />
       <extension name="coverage">
         <pattern>
@@ -134,6 +100,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FileListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p01.FileListTest" />
+      <module name="lg_stage01_module04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="p01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p01.FileTest" />
+      <module name="lg_stage01_module04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="p01.PersonTest" />
       <module name="lg_stage01_module04" />
@@ -149,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileListTest" />
+        <item itemvalue="Application.FileTest" />
         <item itemvalue="Application.PersonTest" />
         <item itemvalue="Application.ExceptionThrowsTest" />
         <item itemvalue="Application.ExceptionFinallyTest" />
-        <item itemvalue="Application.ExceptionCatchTest" />
-        <item itemvalue="Application.ExceptionPreventTest" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +154,10 @@
       <option name="presentableId" value="Default" />
       <updated>1650246013029</updated>
       <workItem from="1650246018045" duration="4746000" />
-      <workItem from="1650265812280" duration="2782000" />
+      <workItem from="1650265812280" duration="4518000" />
+      <workItem from="1650329196990" duration="5556000" />
+      <workItem from="1650350344392" duration="1199000" />
+      <workItem from="1650413436671" duration="941000" />
     </task>
     <servers />
   </component>
@@ -180,29 +169,33 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1090" y="193" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650248138540" />
-    <state x="-1015" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1650268467023">
+    <state x="-1015" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1650333707295">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1015" y="244" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650268467023" />
-    <state width="1584" height="303" key="GridCell.Tab.0.bottom" timestamp="1650268724226">
+    <state x="-1015" y="244" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650333707295" />
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom" timestamp="1650414499969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1584" height="279" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650338833400" />
+    <state width="1877" height="259" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650414499969" />
+    <state width="1877" height="259" key="GridCell.Tab.0.center" timestamp="1650414499969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1584" height="279" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650338833400" />
+    <state width="1877" height="259" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650414499969" />
+    <state width="1877" height="259" key="GridCell.Tab.0.left" timestamp="1650414499969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1584" height="279" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650338833400" />
+    <state width="1877" height="259" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650414499969" />
+    <state width="1877" height="259" key="GridCell.Tab.0.right" timestamp="1650414499969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1584" height="279" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650338833400" />
+    <state width="1877" height="259" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650414499969" />
+    <state x="-1132" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1650333689315">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1584" height="303" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650268724226" />
-    <state width="1584" height="303" key="GridCell.Tab.0.center" timestamp="1650268724226">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1584" height="303" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650268724226" />
-    <state width="1584" height="303" key="GridCell.Tab.0.left" timestamp="1650268724226">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1584" height="303" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650268724226" />
-    <state width="1584" height="303" key="GridCell.Tab.0.right" timestamp="1650268724226">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1584" height="303" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650268724226" />
-    <state x="-1132" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1650247329584">
-      <screen x="-1920" y="0" width="1920" height="1040" />
-    </state>
-    <state x="-1132" y="238" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650247329584" />
+    <state x="-1132" y="238" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650333689315" />
   </component>
 </project>
