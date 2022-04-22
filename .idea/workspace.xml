@@ -2,15 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75bf1994-045a-4ae8-9649-d31ffd2062f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/BufferCharCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/BufferedByteCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/DataInputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/DataOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/ObjectInputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/ObjectOutputStreamTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/PrintStreamChatTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p02/RandomAccessFileTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2.IO流.md" beforeDir="false" afterPath="$PROJECT_DIR$/2.IO流.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -177,7 +168,7 @@
       <workItem from="1650413436671" duration="2774000" />
       <workItem from="1650435704215" duration="7407000" />
       <workItem from="1650498635142" duration="9529000" />
-      <workItem from="1650587157252" duration="6671000" />
+      <workItem from="1650587157252" duration="7081000" />
     </task>
     <servers />
   </component>
@@ -225,10 +216,10 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1251" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650502970931" />
-    <state x="-1307" y="81" width="1153" height="808" key="dock-window-1" timestamp="1650593908058">
+    <state x="-1307" y="81" width="1153" height="808" key="dock-window-1" timestamp="1650594830228">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1307" y="81" width="1153" height="808" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650593908058" />
+    <state x="-1307" y="81" width="1153" height="808" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650594830228" />
     <state x="596" y="0" width="1331" height="1047" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650534969146" />
     <state x="804" y="0" width="1029" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1650501559242" />
     <state x="-1082" y="246" key="run.anything.popup" timestamp="1650587291412">
