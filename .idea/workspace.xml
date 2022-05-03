@@ -2,31 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75bf1994-045a-4ae8-9649-d31ffd2062f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/AccountRunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/AccountThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ConsumerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ProducerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/RunnableIdNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/StoreHouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/StoreHouseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SubRunnableRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SubRunnableRunTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SubThread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SubThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SubThreadRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SubThreadRunTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/SubThreadTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadCallableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadCommunicateTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadDaemonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadIdNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadJoinTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadNoNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadPoolTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadPriorityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadSleepTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/p03/ThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.多线程.md" beforeDir="false" afterPath="$PROJECT_DIR$/3.多线程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/02网络模型.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/03TCP三次握手.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ClientStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ClientStringTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ServerStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ServerStringThreadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/ServerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/UDPReceiveTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/UDPSendTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p04/URLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/ClassTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/PersonConstructorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/p05/PersonFieldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.网络编程.md" beforeDir="false" afterPath="$PROJECT_DIR$/4.网络编程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.反射机制.md" beforeDir="false" afterPath="$PROJECT_DIR$/5.反射机制.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +69,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/p03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/04模块四 Java核心类库（下）/04任务四 网络编程/04_代码" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -93,22 +84,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="p04" />
       <recent name="p03" />
       <recent name="p02" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\lagou\lg_stage01_module04\src\main\java\p03" />
+      <recent name="E:\lagou\lg_stage01_module04\04模块四 Java核心类库（下）\04任务四 网络编程\04_代码" />
       <recent name="E:\lagou\lg_stage01_module04\images" />
+      <recent name="E:\lagou\lg_stage01_module04\src\main\java\p03" />
       <recent name="E:\lagou\lg_stage01_module04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThreadPoolTest">
-    <configuration name="AccountRunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.AccountRunnableTest" />
+  <component name="RunManager" selected="Application.PersonFieldTest">
+    <configuration name="ClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.ClassTest" />
       <module name="lg_stage01_module04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StoreHouseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.StoreHouseTest" />
+    <configuration name="PersonConstructorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.PersonConstructorTest" />
       <module name="lg_stage01_module04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadCallableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.ThreadCallableTest" />
+    <configuration name="PersonFieldTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p05.PersonFieldTest" />
       <module name="lg_stage01_module04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadCommunicateTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.ThreadCommunicateTest" />
+    <configuration name="UDPSendTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p04.UDPSendTest" />
       <module name="lg_stage01_module04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadPoolTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p03.ThreadPoolTest" />
+    <configuration name="URLTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="p04.URLTest" />
       <module name="lg_stage01_module04" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p03.*" />
+          <option name="PATTERN" value="p04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ThreadPoolTest" />
-        <item itemvalue="Application.ThreadCallableTest" />
-        <item itemvalue="Application.StoreHouseTest" />
-        <item itemvalue="Application.ThreadCommunicateTest" />
-        <item itemvalue="Application.AccountRunnableTest" />
+        <item itemvalue="Application.PersonFieldTest" />
+        <item itemvalue="Application.PersonConstructorTest" />
+        <item itemvalue="Application.ClassTest" />
+        <item itemvalue="Application.URLTest" />
+        <item itemvalue="Application.UDPSendTest" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +192,13 @@
       <workItem from="1650847458311" duration="4933000" />
       <workItem from="1650935301660" duration="4288000" />
       <workItem from="1651014490677" duration="11298000" />
-      <workItem from="1651041667163" duration="5012000" />
+      <workItem from="1651041667163" duration="5152000" />
+      <workItem from="1651064190601" duration="2291000" />
+      <workItem from="1651110568866" duration="3412000" />
+      <workItem from="1651149253994" duration="3088000" />
+      <workItem from="1651194789600" duration="4353000" />
+      <workItem from="1651535106524" duration="4776000" />
+      <workItem from="1651567167477" duration="3540000" />
     </task>
     <servers />
   </component>
@@ -211,34 +210,35 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1090" y="193" key="#Project_Structure/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650248138540" />
-    <state x="-1015" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1651045577501">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="905" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1651568455415">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1015" y="244" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651045577501" />
+    <state x="905" y="244" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1651568455415" />
     <state x="-688" y="278" key="FileChooserDialogImpl" timestamp="1650503530455">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-688" y="278" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650503530455" />
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom" timestamp="1651046345525">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1651570081980">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651046345525" />
-    <state width="1877" height="161" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650950881025" />
-    <state width="1877" height="264" key="GridCell.Tab.0.center" timestamp="1651046345525">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="227" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651119705073" />
+    <state width="1877" height="305" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1651570081980" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1651570081980">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651046345525" />
-    <state width="1877" height="161" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650950881024" />
-    <state width="1877" height="264" key="GridCell.Tab.0.left" timestamp="1651046345525">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="227" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651119705072" />
+    <state width="1877" height="305" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1651570081980" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1651570081979">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651046345525" />
-    <state width="1877" height="161" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650950881024" />
-    <state width="1877" height="264" key="GridCell.Tab.0.right" timestamp="1651046345525">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state width="1877" height="227" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651119705072" />
+    <state width="1877" height="305" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1651570081979" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1651570081980">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="264" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651046345525" />
-    <state width="1877" height="161" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650950881025" />
+    <state width="1877" height="227" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651119705073" />
+    <state width="1877" height="305" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1651570081980" />
     <state x="-1237" y="169" key="SettingsEditor" timestamp="1650592123859">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -247,19 +247,20 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1251" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650502970931" />
-    <state x="631" y="242" width="1475" height="736" maximized="true" key="dock-window-1" timestamp="1651022661120">
+    <state x="0" y="0" width="1334" height="1019" key="dock-window-1" timestamp="1651565537890">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="631" y="242" width="1475" height="736" maximized="true" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651022661120" />
-    <state x="452" y="0" width="1475" height="1047" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1650950881132" />
+    <state x="0" y="0" width="1334" height="1019" key="dock-window-1/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1651565537890" />
     <state x="804" y="0" width="1029" height="1047" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1650847587328" />
     <state x="-1082" y="246" key="run.anything.popup" timestamp="1650587291412">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1082" y="246" key="run.anything.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1650587291412" />
-    <state x="-1132" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1651041686387">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="788" y="238" width="672" height="678" key="search.everywhere.popup" timestamp="1651569098608">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="-1132" y="238" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651041686387" />
+    <state x="-1132" y="238" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@-1920.0.1920.1040" timestamp="1651111506663" />
+    <state x="788" y="238" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1651569098608" />
   </component>
 </project>
